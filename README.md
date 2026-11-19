@@ -1,4 +1,4 @@
-# navigi-ca
+# Navigi
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,106 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-navigi-ca is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://navigi.ca/
+Navigi is a free, publicly accessible directory of community services across Canada, published by HelpSeeker Technologies. It aggregates over 107,000 listings from 5,167 communities, providing up‑to‑date information on food, housing, health, legal aid, employment, childcare and more. Funded by Canadian government programs and sustained by HelpSeeker’s social‑enterprise products, Navigi aims to help anyone in need find help quickly, without ads or tracking.
+
+**Areas:** Company · Directory · Canada · SocialGood · OpenData
+
+## Navigi on APIs.io
+
+Everything profiled for Navigi is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/navigi-ca/](https://apis.io/providers/navigi-ca/)** — or go straight to one of the APIs or properties below.
+
+### APIs (5)
+
+- [Navigi Communities API](https://apis.io/apis/navigi-ca/navigi-ca-communities-api/) — The Communities API from Navigi — 3 operation(s) for communities.
+- [Navigi Export API](https://apis.io/apis/navigi-ca/navigi-ca-export-api/) — The Export API from Navigi — 1 operation(s) for export.
+- [Navigi Navigi.ca API](https://apis.io/apis/navigi-ca/navigi-ca-navigi-ca-api-api/) — The Navigi.ca API API from Navigi — 1 operation(s) for navigi.ca api.
+- [Navigi Needs API](https://apis.io/apis/navigi-ca/navigi-ca-needs-api/) — The Needs API from Navigi — 1 operation(s) for needs.
+- [Navigi Services API](https://apis.io/apis/navigi-ca/navigi-ca-services-api/) — The Services API from Navigi — 2 operation(s) for services.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Navigi Agentic Access](https://apis.io/agentic-access/navigi-ca/navigi-ca-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Navigi API Rules](https://apis.io/rules/navigi-ca/navigi-ca-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Navigi Domain Security](https://apis.io/security/navigi-ca/navigi-ca-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://navigi.ca/)
+- [Documentation](https://navigi.ca/developers/)
+- [API reference](https://api.navigi.ca/v1/mcp)
+- [Terms of service](https://navigi.ca/terms/)
+- [Privacy policy](https://navigi.ca/privacy/)
+
+## API Evangelist rating
+
+**Kin Score 30.8** — thin · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 35.5 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 17.0 |
+
+**Agent readiness 27.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/navigi-ca/](https://apis.io/providers/navigi-ca/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Navigi: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/navigi-ca/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
